@@ -13,9 +13,9 @@ Customizable: Easily adaptable for different environments and use cases by adjus
 
 
 Requirements:
-Python 3.x
-OpenCV (cv2) library
-face_recognition library
+Python 3.x;
+OpenCV (cv2) library;
+face_recognition library;
 
 
 Usage:
